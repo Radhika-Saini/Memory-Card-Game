@@ -6,4 +6,4 @@ This is a simple memory card game.
 you can play here -https://radhika-saini.github.io/Memory-Card-Game/
 
 
-![OUTPUT](2021-06-25.PNG)
+![OUTPUT](Assets/output.png)
